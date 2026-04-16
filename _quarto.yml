@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+
+website:
+  title: "Digital Choice Manifesto"
+  description: "Quantifying Digital Decision Friction and Behavioral Digital Twins. A structural framework for algorithmic behavior."
+  site-url: "https://yichao2022.github.io/Digital-Choice-Manifesto"
+  open-graph: true
+  twitter-card: true
+  repo-url: "https://github.com/yichao2022/Digital-Choice-Manifesto"
+  repo-actions: [source, issue]
+  search: false # SEO保护：禁用站内搜索抓取，保持页面纯粹
+
+format:
+  html:
+    theme: lux
+    toc: true
+    smooth-scroll: true
+    number-sections: false
+    css: styles.css
+
+execute:
+  echo: false
+  warning: false
+  message: false

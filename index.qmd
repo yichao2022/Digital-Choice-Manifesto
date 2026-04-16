@@ -1,0 +1,27 @@
+---
+title: "The Digital Choice Manifesto"
+subtitle: "Reclaiming Agency Through Structural Realism and Local Compute"
+author: "Yichao Jin, Ph.D."
+format:
+  html:
+    theme: cosmo
+    toc: true
+---
+
+> "Modern algorithms treat human choice as a series of data points to be exploited. We treat it as a structural architecture to be empowered."
+
+## The Vision
+In an era of centralized algorithmic governance, individual agency is often lost in the "black box" of predictive modeling. This Manifesto advocates for a paradigm shift...
+
+## The Three Pillars
+
+### 1. Structural Realism
+We reject superficial correlations. By utilizing TRIBE-v2, we recover the latent structural parameters of human decision-making: Beta (Present Bias), Delta (Trust), and Kappa (Friction).
+
+### 2. Privacy Sovereignty
+We champion "Privacy by Architecture." By leveraging local compute (Apple Silicon/MLX), we ensure that high-fidelity behavioral simulations occur entirely on the user's edge device, requiring zero cloud exposure.
+
+### 3. Cognitive Equity
+We define "Administrative Sludge" as a hidden tax on human potential. Our mission is to identify and eliminate the systemic frictions that disproportionately exclude the 45% Hidden Majority from social and economic progress.
+
+[Explore Clinical Applications →](/clinical/) | [Explore Platform Economics →](/platforms/)

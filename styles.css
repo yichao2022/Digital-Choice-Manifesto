@@ -1,0 +1,13 @@
+/* Add a subtle professional polish */
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+blockquote {
+  border-left: 4px solid #2c3e50;
+  padding-left: 15px;
+  color: #34495e;
+  font-weight: bold;
+  background-color: #f8f9fa;
+  padding: 10px 15px;
+  border-radius: 4px;
+}
